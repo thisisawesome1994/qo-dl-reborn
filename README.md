@@ -1,4 +1,4 @@
-# Qo-DL Reborn
+# Qo-DL Reborn (Copy from original repo, I am not the author of this program...)
 Tool written in Python to download streamable tracks from Qobuz.
 
 ![](https://orion.feralhosting.com/sorrow/qo_rb.jpg)
